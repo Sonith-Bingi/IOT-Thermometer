@@ -1,6 +1,6 @@
 ## IOT Thermometer using [Arduino Uno](https://www.arduino.cc/)
 
-In this, we are trying to make a Thermometer using Arduino as microcontrolle and LCD as output. This is implementated using TinkerCad Stimualtion software and Thingspeak.com for storing and displaying the data continuously.
+In this, we are trying to make a Thermometer using Arduino as microcontroller and LCD as output. This is implementated using TinkerCad Stimualtion software and Thingspeak.com for storing and displaying the data continuously.
 
 ### Part 1: Components
 
